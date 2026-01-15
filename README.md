@@ -63,20 +63,6 @@ I have worked on:
 
 ---
 
-## 💼 Experience
-
-### **Android Developer Intern**  
-**Incubators Systems – Pune**  
-*Aug 2024 – Oct 2024*
-
-- Developed Android features using **Java & Dart** with **REST APIs**
-- Improved data retrieval speed by **30%** using optimized queries and caching
-- Built Java backend modules for handling application data
-- Worked in a **5-member Agile team** using Git
-- Reduced crash rate by **25%** through debugging and code reviews  
-
----
-
 ## 🧩 Projects
 
 ### 🔐 Rule-Based Financial Fraud Detection System  
