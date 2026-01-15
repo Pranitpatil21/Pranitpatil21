@@ -2,9 +2,9 @@
 <h3 align="center">Java Developer | Backend Systems</h3>
 
 <p align="center">
-📍 Pune, India &nbsp; | &nbsp;
-📧 <a href="mailto:pranitpatil8337@gmail.com">pranitpatil8337@gmail.com</a> &nbsp; | &nbsp;
-<a href="https://www.linkedin.com/in/pranit21/" target="_blank">LinkedIn</a>
+  📍 Pune, India &nbsp; | &nbsp;
+  📧 <a href="mailto:pranitpatil8337@gmail.com">pranitpatil8337@gmail.com</a> &nbsp; | &nbsp;
+  <a href="https://www.linkedin.com/in/pranit21/" target="_blank">LinkedIn</a>
 </p>
 
 ---
@@ -14,7 +14,7 @@
 I am a **Computer Engineering graduate** with strong experience in **Java backend systems, Android development, and cloud-based applications**.  
 I focus on building **scalable APIs, transaction systems, and optimized databases** for real-world applications.
 
-I have a strong foundation in **Data Structures and Algorithms** (arrays, linked lists, stacks, queues, trees, hashing, recursion, and problem solving with time–space complexity).
+I have a strong foundation in **Data Structures and Algorithms**, including arrays, linked lists, stacks, queues, trees, hashing, and recursion, with a focus on efficient time and space complexity.
 
 I also have working knowledge of **web technologies** such as **HTML, CSS, JavaScript, RESTful APIs, and client–server architecture**, which helps me design and integrate complete backend-driven web applications.
 
