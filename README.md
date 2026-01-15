@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranit Patil</h1>
-<h3 align="center">Java Backend Developer | Systems Engineer | Android Developer</h3>
+<h3 align="center">Java Developer | Backend Systems
 
 <p align="center">
 📍 Pune, India &nbsp; | &nbsp;
