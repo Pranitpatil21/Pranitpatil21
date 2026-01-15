@@ -14,6 +14,10 @@
 I am a **Computer Engineering graduate** with strong experience in **Java backend systems, Android development, and cloud-based applications**.  
 I focus on building **scalable APIs, transaction systems, and optimized databases** for real-world applications.
 
+I have a strong foundation in **Data Structures and Algorithms** (arrays, linked lists, stacks, queues, trees, hashing, recursion, and problem solving with time–space complexity).
+
+I also have working knowledge of **web technologies** such as **HTML, CSS, JavaScript, RESTful APIs, and client–server architecture**, which helps me design and integrate complete backend-driven web applications.
+
 I have worked on:
 - Financial transaction processing systems  
 - Cloud-based mobile backends  
