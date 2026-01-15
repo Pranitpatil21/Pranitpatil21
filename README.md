@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pranit Patil</h1>
-<h3 align="center">Java Developer | Backend Systems
+<h3 align="center">Java Developer | Backend Systems</h3>
 
 <p align="center">
 📍 Pune, India &nbsp; | &nbsp;
-📧 pranitpatil8337@gmail.com &nbsp; | &nbsp;
-<a href="https://github.com/PranitPatil">GitHub</a> • <a href="https://linkedin.com/">LinkedIn</a>
+📧 <a href="mailto:pranitpatil8337@gmail.com">pranitpatil8337@gmail.com</a> &nbsp; | &nbsp;
+<a href="https://www.linkedin.com/in/pranit21/" target="_blank">LinkedIn</a>
 </p>
 
 ---
@@ -25,12 +25,12 @@ I have worked on:
 
 ### 💻 Programming Languages
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,dart,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,dart,html,css,sql" />
 </p>
 
 ### ☕ Java & Backend
 <p align="left">
-<img src="https://skillicons.dev/icons?i=spring,hibernate" />
+  <img src="https://skillicons.dev/icons?i=spring,hibernate" />
 </p>
 
 **Core Java:** OOP, Collections, Multithreading, JDBC, Java 8, Stream API, Lambda Expressions, Servlets  
@@ -40,7 +40,7 @@ I have worked on:
 
 ### 🗄️ Databases
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
 </p>
 
 - MySQL  
@@ -52,15 +52,15 @@ I have worked on:
 
 ### ☁️ Tools & Cloud
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,maven,postman,idea,firebase" />
+  <img src="https://skillicons.dev/icons?i=git,maven,postman,idea,firebase" />
 </p>
 
 - Oracle Cloud Infrastructure (OCI)  
-- Git & GitHub  
+- Git  
 - Maven, Postman  
 - IntelliJ IDEA  
-- Firebase
-  
+- Firebase  
+
 ---
 
 ## 📜 Certification
@@ -81,4 +81,4 @@ I have worked on:
 
 📧 **pranitpatil8337@gmail.com**  
 📍 Pune, India  
-🔗 GitHub | LinkedIn
+🔗 <a href="https://www.linkedin.com/in/pranit21/" target="_blank">LinkedIn</a>
