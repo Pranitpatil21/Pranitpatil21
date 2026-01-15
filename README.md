@@ -1,145 +1,137 @@
-# Hi, I'm Pranit Patil 👋  
-**Java Backend Developer | Systems Engineer | Android Developer**
+<h1 align="center">Hi 👋, I'm Pranit Patil</h1>
+<h3 align="center">Java Backend Developer | Systems Engineer | Android Developer</h3>
 
-📍 Pune, India  
-📧 pranitpatil8337@gmail.com  
-🔗 LinkedIn | GitHub  
-
----
-
-## 🚀 About Me
-
-I am a Computer Engineering graduate with hands-on experience in **Java backend development, Android applications, and cloud-based systems**.  
-I specialize in building **scalable REST APIs, database-driven applications, and transaction processing systems** using modern Java and cloud technologies.
-
-I enjoy working on **real-world backend problems** such as:
-- Transaction processing
-- Database optimization
-- API performance
-- Cloud deployment
-- Mobile–backend integration
+<p align="center">
+📍 Pune, India &nbsp; | &nbsp;
+📧 pranitpatil8337@gmail.com &nbsp; | &nbsp;
+<a href="https://github.com/PranitPatil">GitHub</a> • <a href="https://linkedin.com/">LinkedIn</a>
+</p>
 
 ---
 
-## 🧰 Technical Skills
+## 🧠 About Me
 
-### Programming Languages
-- Java, Python, C++, JavaScript, Dart, SQL, HTML, CSS  
+I am a **Computer Engineering graduate** with strong experience in **Java backend systems, Android development, and cloud-based applications**.  
+I focus on building **scalable APIs, transaction systems, and optimized databases** for real-world applications.
 
-### Java & Backend
-- OOP, Collections, Multithreading  
-- JDBC, Stream API, Lambda Expressions  
-- Servlets, Java 8  
-- Spring Boot, Hibernate, JPA  
+I have worked on:
+- Financial transaction processing systems  
+- Cloud-based mobile backends  
+- REST APIs and database performance  
 
-### Databases
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,dart,html,css,sql" />
+</p>
+
+### ☕ Java & Backend
+<p align="left">
+<img src="https://skillicons.dev/icons?i=spring,hibernate" />
+</p>
+
+**Core Java:** OOP, Collections, Multithreading, JDBC, Java 8, Stream API, Lambda Expressions, Servlets  
+**Frameworks:** Spring Boot, Hibernate, JPA  
+
+---
+
+### 🗄️ Databases
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
+</p>
+
 - MySQL  
 - PostgreSQL  
 - Firebase Cloud Firestore  
 - Query Optimization  
 
-### Tools & Cloud
-- Git, GitHub  
+---
+
+### ☁️ Tools & Cloud
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,maven,postman,idea,firebase" />
+</p>
+
+- Oracle Cloud Infrastructure (OCI)  
+- Git & GitHub  
 - Maven, Postman  
 - IntelliJ IDEA  
-- Oracle Cloud Infrastructure (OCI)  
 - Firebase  
 
-### Development Practices
-- RESTful API Development  
-- Agile Methodology  
-- Version Control  
-- API Integration  
-- Unit Testing  
-
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
-### Android Developer Intern  
-**Incubators Systems — Pune**  
+### **Android Developer Intern**  
+**Incubators Systems – Pune**  
 *Aug 2024 – Oct 2024*
 
-- Developed Android application features using **Java and Dart** with **REST API integration**
-- Improved data retrieval efficiency by **30%** using optimized query patterns and caching
-- Built and maintained **Java-based backend modules and APIs**
-- Collaborated in an **Agile team of 5 developers** using Git
-- Reduced application crash rate by **25%** through debugging and code reviews  
+- Developed Android features using **Java & Dart** with **REST APIs**
+- Improved data retrieval speed by **30%** using optimized queries and caching
+- Built Java backend modules for handling application data
+- Worked in a **5-member Agile team** using Git
+- Reduced crash rate by **25%** through debugging and code reviews  
 
 ---
 
-## 🛠️ Projects
+## 🧩 Projects
 
 ### 🔐 Rule-Based Financial Fraud Detection System  
-**Java, JDBC, MySQL, Multithreading**  
-*Mar 2025 – Jun 2025*
+**Java, JDBC, MySQL, Multithreading**
 
-- Built a high-performance **transaction-processing backend**
-- Processed **1,000+ transactions per minute** using rule-based risk scoring
+- Built a **transaction processing engine** handling **1,000+ transactions/minute**
 - Implemented:
   - High-value transaction checks  
   - Frequency analysis  
   - Location mismatch detection  
-- Designed a **relational MySQL database** with indexing and integrity constraints
-- Used **ExecutorService** for multithreaded transaction processing
+- Designed relational database with indexing & integrity constraints  
+- Used **ExecutorService** for concurrent processing  
 - Generated **real-time fraud alerts**
 
 ---
 
 ### 💎 Jewelry Commerce System with AI/AR  
-**Flutter, Firebase, Cloud Firestore, REST APIs**  
-*Sep 2024 – Jan 2025*
+**Flutter, Firebase, REST APIs**
 
-- Built a full-stack **e-commerce mobile application**
-- Managed **500+ products** with real-time inventory tracking
-- Designed **NoSQL Firestore schema** with 6 collections
-- Reduced query response time from **800ms to 200ms** via indexing
+- Built a full-stack **e-commerce mobile app**
+- Managed **500+ products** with real-time inventory
+- Designed **6 Firestore collections**
+- Reduced query time from **800ms → 200ms**
 - Integrated **AI-based product recommendations**
-- Achieved **70% click-through rate** using personalized suggestions  
+- Achieved **70% click-through rate**
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Engineering in Computer Engineering**  
-NBN Sinhgad Technical Institute Campus  
-*Aug 2021 – Jun 2025*  
+🎓 **B.E. in Computer Engineering**  
+NBN Sinhgad Technical Institute  
 CGPA: **7.54 / 10**
 
-**Class XII – Science**  
-Late B.P. Patil College  
+📘 **Class XII – Science**  
 Percentage: **85.17%**
 
 ---
 
-## 📜 Certifications
+## 📜 Certification
 
-- **Oracle Cloud Infrastructure 2025 Certified Developer Professional**  
-  Oracle University (Oct 2025)
+🏅 **Oracle Cloud Infrastructure 2025 – Certified Developer Professional**
 
 ---
 
 ## 🧑‍💼 Leadership
 
 **Technical Event Coordinator**  
-- Led a team of **10 students**
-- Organized a college technical festival for **200+ participants**
-- Managed scheduling, coordination, and execution
+- Led a **10-member team**  
+- Organized a tech fest for **200+ students**
 
 ---
 
-## 📈 What I’m Interested In
+## 📫 Contact
 
-- Backend Engineering  
-- Java Systems  
-- Cloud-based applications  
-- Financial and transaction systems  
-- API-driven architectures  
-
----
-
-## 🤝 Let’s Connect
-
-If you’re looking for a **Java backend developer** or **systems engineer** who can work on real production systems, feel free to reach out.
-
-📧 **pranitpatil8337@gmail.com**
+📧 **pranitpatil8337@gmail.com**  
+📍 Pune, India  
+🔗 GitHub | LinkedIn
