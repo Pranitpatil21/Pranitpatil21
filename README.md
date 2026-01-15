@@ -59,47 +59,8 @@ I have worked on:
 - Git & GitHub  
 - Maven, Postman  
 - IntelliJ IDEA  
-- Firebase  
-
----
-
-## 🧩 Projects
-
-### 🔐 Rule-Based Financial Fraud Detection System  
-**Java, JDBC, MySQL, Multithreading**
-
-- Built a **transaction processing engine** handling **1,000+ transactions/minute**
-- Implemented:
-  - High-value transaction checks  
-  - Frequency analysis  
-  - Location mismatch detection  
-- Designed relational database with indexing & integrity constraints  
-- Used **ExecutorService** for concurrent processing  
-- Generated **real-time fraud alerts**
-
----
-
-### 💎 Jewelry Commerce System with AI/AR  
-**Flutter, Firebase, REST APIs**
-
-- Built a full-stack **e-commerce mobile app**
-- Managed **500+ products** with real-time inventory
-- Designed **6 Firestore collections**
-- Reduced query time from **800ms → 200ms**
-- Integrated **AI-based product recommendations**
-- Achieved **70% click-through rate**
-
----
-
-## 🎓 Education
-
-🎓 **B.E. in Computer Engineering**  
-NBN Sinhgad Technical Institute  
-CGPA: **7.54 / 10**
-
-📘 **Class XII – Science**  
-Percentage: **85.17%**
-
+- Firebase
+  
 ---
 
 ## 📜 Certification
