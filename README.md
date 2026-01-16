@@ -20,7 +20,7 @@ I also have working knowledge of **web technologies** such as **HTML, CSS, JavaS
 
 I have worked on:
 - Financial transaction processing systems  
-- Cloud-based mobile backends  
+- Cloud-based mobile backends    
 - REST APIs and database performance  
 
 ---
