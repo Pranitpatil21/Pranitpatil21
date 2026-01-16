@@ -2,7 +2,7 @@
 <h3 align="center">Java Developer | Backend Systems</h3>
 
 <p align="center"> 
-  📍 Pune, India &nbsp; | &nbsp;
+  📍 Pune, India &nbsp; | &nbsp; 
   📧 <a href="mailto:pranitpatil8337@gmail.com">pranitpatil8337@gmail.com</a> &nbsp; | &nbsp;
   <a href="https://www.linkedin.com/in/pranit21/" target="_blank">LinkedIn</a>
 </p>
