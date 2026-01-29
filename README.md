@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 
-I am a **Computer Engineering graduate** with strong experience in **Java backend systems, Android development, and cloud-based applications**.  
+I am a **Computer Engineering graduate** with strong experience in **Java backend systems, Web development, and cloud-based applications**.  
 I focus on building **scalable APIs, transaction systems, and optimized databases** for real-world applications.
 
 I have a strong foundation in **Data Structures and Algorithms**, including arrays, linked lists, stacks, queues, trees, hashing, and recursion, with a focus on efficient time and space complexity.
